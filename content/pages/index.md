@@ -121,10 +121,8 @@ sections:
       - type: FeaturedItem
         title: Stage Shows
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Larger-scale performances full of drama and surprises.
         image:
           type: ImageBlock
           altText: Placeholder text
