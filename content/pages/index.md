@@ -211,7 +211,7 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Feature Item Three
+        title: ''
         tagline: ''
         subtitle: ''
         text: |
