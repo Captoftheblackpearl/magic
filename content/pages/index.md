@@ -99,7 +99,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: Corporate & Events
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
