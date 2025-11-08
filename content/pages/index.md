@@ -163,10 +163,7 @@ sections:
       - type: FeaturedItem
         title: Custom
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Magic tailored to\_your unique event or idea.\n\n"
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
