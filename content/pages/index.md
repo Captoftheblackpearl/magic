@@ -101,10 +101,7 @@ sections:
         type: FeaturedItem
       - title: Corporate & Events
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Professional entertainment\_tailored\_for any audience.\n\n"
         image:
           altText: Featured icon three
           elementId: ''
