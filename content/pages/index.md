@@ -33,7 +33,7 @@ sections:
         type: Link
     media:
       url: /images/3254eded-d7e9-44f6-9e95-528bdf8ef12a.png
-      altText: Unblock your team boost your time to production preview
+      altText: Alex Mardle Logo
       elementId: ''
       type: ImageBlock
     badge:
