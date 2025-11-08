@@ -146,10 +146,7 @@ sections:
       - type: FeaturedItem
         title: Close-Up Magic
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Sleight of hand tricks\_performed right\_under your guests noses.\n\n"
         actions: []
         colors: bg-neutralAlt-fg-dark
         styles:
