@@ -100,7 +100,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Corporate & Events
-        subtitle: Faster
+        subtitle: ''
         text: "Professional entertainment\_tailored\_for any audience.\n\n"
         image:
           altText: Featured icon three
