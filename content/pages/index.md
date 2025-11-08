@@ -217,7 +217,7 @@ sections:
         tagline: ''
         subtitle: ''
         text: |
-          Learn from the tutorial and build your first awesome Netlify site.
+          ***Danielle Miller***
         actions: []
         colors: bg-light-fg-dark
         styles:
