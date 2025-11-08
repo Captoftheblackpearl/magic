@@ -8,10 +8,13 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Making Rabbits scared of hats since 2019
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |+
+      Magic isn’t about age - it’s about awe. Prepare to be amazed.
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''
