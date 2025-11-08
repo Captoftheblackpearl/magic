@@ -67,10 +67,7 @@ sections:
       - type: FeaturedItem
         title: Kids Parties
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: "Interactive magic that keeps children amazed\_and laughing.\n"
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
