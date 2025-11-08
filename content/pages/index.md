@@ -82,7 +82,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-      - title: 20x
+      - title: Weddings​ & Private Parties
         subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
