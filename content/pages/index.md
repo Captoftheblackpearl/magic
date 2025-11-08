@@ -230,7 +230,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
       - type: FeaturedItem
-        title: More Coming soon...
+        title: More Testemonials Coming soon...
         tagline: ''
         subtitle: This is the item subtitle
         text: |
